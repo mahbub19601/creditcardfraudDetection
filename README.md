@@ -1,9 +1,6 @@
 # 💳 End-to-End Credit Card Fraud Detection System
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![XGBoost](https://img.shields.io/badge/XGBoost-Latest-orange.svg)
-![imbalanced-learn](https://img.shields.io/badge/Imbalanced_Learn-SMOTE-green.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 
 A production-ready machine learning pipeline designed to solve the "needle in a haystack" problem of credit card fraud detection. 
 
